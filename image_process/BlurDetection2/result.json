@@ -1,0 +1,1274 @@
+{
+    "images": [
+        "../images_4/"
+    ],
+    "threshold": 1.0,
+    "fix_size": true,
+    "results": [
+        {
+            "input_path": "../images_4/frame_00156.png",
+            "score": 1.282944020277395,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00100.png",
+            "score": 0.684734883655848,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00227.png",
+            "score": 1.47571719990445,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00006.png",
+            "score": 1.4724439118341108,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00232.png",
+            "score": 1.6052794388534797,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00219.png",
+            "score": 2.112469178619582,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00245.png",
+            "score": 1.8186368529259198,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00224.png",
+            "score": 1.8245577562934585,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00154.png",
+            "score": 1.300454862107118,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00016.png",
+            "score": 0.8309554103204024,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00228.png",
+            "score": 1.4486133752047679,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00036.png",
+            "score": 0.7362329501670626,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00007.png",
+            "score": 1.4472610824538765,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00050.png",
+            "score": 0.9685164658883404,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00182.png",
+            "score": 1.338634893950464,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00146.png",
+            "score": 1.8234053589972445,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00166.png",
+            "score": 1.252254071120804,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00118.png",
+            "score": 3.319436934483265,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00197.png",
+            "score": 0.9821233494882177,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00252.png",
+            "score": 1.6090234807195836,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00015.png",
+            "score": 0.8764486173731139,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00204.png",
+            "score": 0.9745543080968654,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00194.png",
+            "score": 1.0137867895090868,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00038.png",
+            "score": 0.8637552560011115,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00051.png",
+            "score": 0.992708813290649,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00216.png",
+            "score": 1.9017263970943197,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00235.png",
+            "score": 1.5359476993532382,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00153.png",
+            "score": 1.391786095871859,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00155.png",
+            "score": 1.3115310692507818,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00120.png",
+            "score": 3.2678389202447122,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00138.png",
+            "score": 2.4134847474770695,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00211.png",
+            "score": 1.2945189665804784,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00167.png",
+            "score": 1.3346719665614883,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00240.png",
+            "score": 1.722795977703661,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00220.png",
+            "score": 2.098972237519777,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00095.png",
+            "score": 1.0539797685810322,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00021.png",
+            "score": 0.6173541237932562,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00001.png",
+            "score": 1.5425692362894206,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00180.png",
+            "score": 1.3731288536095623,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00053.png",
+            "score": 1.0213648261958996,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00151.png",
+            "score": 1.4439748011789835,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00043.png",
+            "score": 1.0353515111596634,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00091.png",
+            "score": 1.7462087328327285,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00055.png",
+            "score": 1.0167092610564674,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00251.png",
+            "score": 1.6901950280003557,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00012.png",
+            "score": 1.0398181750944255,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00069.png",
+            "score": 0.6778924622422473,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00176.png",
+            "score": 1.3954171968060705,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00169.png",
+            "score": 1.3284242341255523,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00107.png",
+            "score": 0.8235752701337201,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00218.png",
+            "score": 1.9892526208792802,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00042.png",
+            "score": 0.9960620595428591,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00187.png",
+            "score": 1.251441496097541,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00217.png",
+            "score": 2.1317311046322773,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00045.png",
+            "score": 0.9721215804134438,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00188.png",
+            "score": 1.2286114362188576,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00094.png",
+            "score": 1.1548510129202427,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00084.png",
+            "score": 1.2548247266679526,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00145.png",
+            "score": 1.9390368837098197,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00002.png",
+            "score": 1.553996259956043,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00130.png",
+            "score": 2.64082484860418,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00070.png",
+            "score": 0.7222172803623704,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00196.png",
+            "score": 0.9871847024006445,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00102.png",
+            "score": 0.7306228842315469,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00186.png",
+            "score": 1.276559359455005,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00068.png",
+            "score": 0.6334007314174687,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00103.png",
+            "score": 0.7187885735457987,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00202.png",
+            "score": 0.9520940548093347,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00239.png",
+            "score": 1.6618408572316679,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00074.png",
+            "score": 0.6993162575972767,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00158.png",
+            "score": 1.2118721908441885,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00088.png",
+            "score": 1.5549937382748822,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00054.png",
+            "score": 1.0336583966585475,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00106.png",
+            "score": 0.8916396724513079,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00206.png",
+            "score": 0.9648733712268484,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00108.png",
+            "score": 0.7985973335945301,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00085.png",
+            "score": 1.3272198640111221,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00137.png",
+            "score": 2.3030325139951806,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00241.png",
+            "score": 1.863718275341996,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00089.png",
+            "score": 1.508211205539503,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00181.png",
+            "score": 1.3657297233546855,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00183.png",
+            "score": 1.3627152998981533,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00195.png",
+            "score": 0.9986866868627707,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00238.png",
+            "score": 1.684641932269423,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00060.png",
+            "score": 0.8671224949351489,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00090.png",
+            "score": 1.682565018495327,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00048.png",
+            "score": 0.9600708829282285,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00071.png",
+            "score": 0.7765578602390949,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00019.png",
+            "score": 0.6676268311672995,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00199.png",
+            "score": 0.9553893313796884,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00037.png",
+            "score": 0.7621633885477895,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00009.png",
+            "score": 1.3908655773030705,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00247.png",
+            "score": 1.8165259569245285,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00142.png",
+            "score": 2.3327099926738315,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00163.png",
+            "score": 1.1655594124273005,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00242.png",
+            "score": 1.9388050049823942,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00172.png",
+            "score": 1.3896202286204316,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00057.png",
+            "score": 0.9160579017174018,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00114.png",
+            "score": 3.516809708522443,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00098.png",
+            "score": 0.7998856597999247,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00128.png",
+            "score": 2.917571110309308,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00135.png",
+            "score": 2.350281802617231,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00031.png",
+            "score": 0.7767087813073762,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00092.png",
+            "score": 1.0899109765592596,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00052.png",
+            "score": 1.0082446880281613,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00063.png",
+            "score": 0.882186616399623,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00246.png",
+            "score": 1.8308284767066825,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00126.png",
+            "score": 3.0636846929056105,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00141.png",
+            "score": 2.4054369564717653,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00005.png",
+            "score": 1.5049738986510055,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00065.png",
+            "score": 0.8268445602949658,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00210.png",
+            "score": 1.2063011045223349,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00207.png",
+            "score": 1.023947475470329,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00014.png",
+            "score": 0.8318529409119031,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00104.png",
+            "score": 0.6892500222361206,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00064.png",
+            "score": 0.8792671432840624,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00117.png",
+            "score": 3.4082444881327065,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00073.png",
+            "score": 0.7366347400309639,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00025.png",
+            "score": 0.6528895387712227,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00185.png",
+            "score": 1.2861323527794963,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00198.png",
+            "score": 0.9895204807885476,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00082.png",
+            "score": 1.1119224645510397,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00122.png",
+            "score": 3.3135680039339426,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00093.png",
+            "score": 1.3371166879721905,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00231.png",
+            "score": 1.6280535280048534,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00058.png",
+            "score": 0.907058608347834,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00191.png",
+            "score": 1.0767888394369745,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00164.png",
+            "score": 1.1885443912833589,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00076.png",
+            "score": 0.8911319379964279,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00029.png",
+            "score": 0.7874001897007865,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00080.png",
+            "score": 0.8804455269893845,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00027.png",
+            "score": 0.6831447153138909,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00123.png",
+            "score": 3.163989233630811,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00061.png",
+            "score": 0.8316720355254202,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00047.png",
+            "score": 0.9936932984049343,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00192.png",
+            "score": 1.0668110578167618,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00075.png",
+            "score": 0.7440128812630994,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00230.png",
+            "score": 1.5650284900996778,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00097.png",
+            "score": 0.9428858706896294,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00086.png",
+            "score": 1.4068622110636138,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00174.png",
+            "score": 1.3565675151895558,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00081.png",
+            "score": 1.0521237392843543,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00214.png",
+            "score": 1.6408748224678493,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00147.png",
+            "score": 1.703097280122496,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00011.png",
+            "score": 1.2034296063158967,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00152.png",
+            "score": 1.436291819378465,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00119.png",
+            "score": 3.2437165362515405,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00062.png",
+            "score": 0.9031876328680101,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00087.png",
+            "score": 1.435888030560017,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00049.png",
+            "score": 0.9428458915986939,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00150.png",
+            "score": 1.469858264127861,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00203.png",
+            "score": 0.9384112109366801,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00026.png",
+            "score": 0.7078318039665255,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00116.png",
+            "score": 3.4480946464998805,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00178.png",
+            "score": 1.3882149635740508,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00193.png",
+            "score": 1.0289128785645107,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00127.png",
+            "score": 3.0933241914478726,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00018.png",
+            "score": 0.7465065770601975,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00201.png",
+            "score": 0.9561649257438359,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00003.png",
+            "score": 1.5508049290221215,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00079.png",
+            "score": 1.0571840927195078,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00205.png",
+            "score": 0.9607405327013971,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00099.png",
+            "score": 0.7784188869221397,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00223.png",
+            "score": 1.911947051691965,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00171.png",
+            "score": 1.3914072939852458,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00168.png",
+            "score": 1.436330798992127,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00077.png",
+            "score": 0.9917083365399896,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00237.png",
+            "score": 1.6280075520502777,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00175.png",
+            "score": 1.387477349346292,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00149.png",
+            "score": 1.5526379703415114,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00236.png",
+            "score": 1.609073454583253,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00010.png",
+            "score": 1.352994383937201,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00013.png",
+            "score": 0.8874618574485544,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00140.png",
+            "score": 2.4700491642870777,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00033.png",
+            "score": 0.7988671924583443,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00249.png",
+            "score": 1.7936019461821466,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00111.png",
+            "score": 3.5457635656551623,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00226.png",
+            "score": 1.4493949664325558,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00234.png",
+            "score": 1.5588167388455838,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00028.png",
+            "score": 0.7342689773248591,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00244.png",
+            "score": 1.7233866687722321,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00121.png",
+            "score": 3.2658359677888464,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00039.png",
+            "score": 0.9725273681864385,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00229.png",
+            "score": 1.4444875330202305,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00125.png",
+            "score": 3.00120137168261,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00136.png",
+            "score": 2.357086243894443,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00184.png",
+            "score": 1.3284022456255378,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00221.png",
+            "score": 1.9166186084677714,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00139.png",
+            "score": 2.4289266713508835,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00170.png",
+            "score": 1.3487156217298353,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00177.png",
+            "score": 1.414594167250528,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00096.png",
+            "score": 1.1384765767503595,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00072.png",
+            "score": 0.7720132370770088,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00162.png",
+            "score": 1.1617743919929877,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00020.png",
+            "score": 0.6504817980196357,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00200.png",
+            "score": 0.9555582430388907,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00046.png",
+            "score": 0.9857554498997024,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00133.png",
+            "score": 2.43354225739938,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00109.png",
+            "score": 3.583370897020858,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00044.png",
+            "score": 1.010968263598138,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00233.png",
+            "score": 1.611479196380293,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00110.png",
+            "score": 3.579742794518467,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00124.png",
+            "score": 3.089804032491007,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00056.png",
+            "score": 0.92898614024865,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00004.png",
+            "score": 1.5196362302515785,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00059.png",
+            "score": 0.881642900762901,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00129.png",
+            "score": 2.7294175146398434,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00024.png",
+            "score": 0.6062939082859664,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00144.png",
+            "score": 2.0234697253336504,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00035.png",
+            "score": 0.7704420588032459,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00030.png",
+            "score": 0.7584443336135201,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00173.png",
+            "score": 1.3840871224349665,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00040.png",
+            "score": 1.0246890876071815,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00225.png",
+            "score": 1.631988470030174,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00208.png",
+            "score": 1.03863579348001,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00213.png",
+            "score": 1.4796921210207061,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00179.png",
+            "score": 1.399822892627156,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00212.png",
+            "score": 1.3168752742315768,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00105.png",
+            "score": 0.8188537394303074,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00008.png",
+            "score": 1.4653636148294442,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00190.png",
+            "score": 1.1414390273886756,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00022.png",
+            "score": 0.6015303996010086,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00215.png",
+            "score": 1.7605402374558106,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00148.png",
+            "score": 1.6319964658483612,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00066.png",
+            "score": 0.7558307005436157,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00143.png",
+            "score": 2.1541263918970377,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00113.png",
+            "score": 3.4744008883354005,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00131.png",
+            "score": 2.538013618877327,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00248.png",
+            "score": 1.8154225340147103,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00078.png",
+            "score": 1.1157194787126332,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00034.png",
+            "score": 0.8086970514420958,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00134.png",
+            "score": 2.361839757806667,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00160.png",
+            "score": 1.236991053678926,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00159.png",
+            "score": 1.2288123311508081,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00253.png",
+            "score": 1.5570296734807696,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00032.png",
+            "score": 0.8172625716750139,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00222.png",
+            "score": 1.8783446257607272,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00250.png",
+            "score": 1.6792357596976781,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00023.png",
+            "score": 0.5886121558424944,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00161.png",
+            "score": 1.2390409815666406,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00189.png",
+            "score": 1.189497892602169,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00017.png",
+            "score": 0.7726598988728894,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00067.png",
+            "score": 0.6737636216258897,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00132.png",
+            "score": 2.476412836086727,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00243.png",
+            "score": 1.7673776614830443,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00209.png",
+            "score": 1.0974150519278418,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00083.png",
+            "score": 1.2232652322835158,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00165.png",
+            "score": 1.1845454827125412,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00041.png",
+            "score": 1.0092661538015617,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00101.png",
+            "score": 0.7145402954254925,
+            "blurry": true
+        },
+        {
+            "input_path": "../images_4/frame_00115.png",
+            "score": 3.488414559185546,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00112.png",
+            "score": 3.5134474669747724,
+            "blurry": false
+        },
+        {
+            "input_path": "../images_4/frame_00157.png",
+            "score": 1.261345316399523,
+            "blurry": false
+        }
+    ]
+}
